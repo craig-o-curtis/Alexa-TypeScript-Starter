@@ -1,0 +1,31 @@
+HelloIntent what is {Word} in Chinese
+HelloIntent say {Word} in Chinese
+HelloIntent what is the Chinese for {Word}
+HelloIntent how do you say {Word} in Chinese
+HelloIntent what is {Word} in Mandarin Chinese
+HelloIntent say {Word} in Mandarin Chinese
+HelloIntent what is the Mandarin Chinese for {Word}
+HelloIntent how do you say {Word} in Mandarin Chinese
+HelloIntent what is {Word} in Mandarin
+HelloIntent say {Word} in Mandarin
+HelloIntent what is the Mandarin for {Word}
+HelloIntent how do you say {Word} in Mandarin
+
+AboutIntent who wrote this app
+AboutIntent who wrote this Alexa skill
+AboutIntent who wrote this skill
+AboutIntent who wrote this
+AboutIntent who coded this app
+AboutIntent who coded this Alexa skill
+AboutIntent who coded this skill
+AboutIntent who coded this
+AboutIntent who made this app
+AboutIntent who made this Alexa skill
+AboutIntent who made this skill
+AboutIntent who made this
+AboutIntent who taught Alexa this
+AboutIntent who taught Alexa this app
+AboutIntent who taught Alexa this skill
+AboutIntent who is the author of this app
+AboutIntent who is the author of this skill
+AboutIntent who is the author of this Alexa skill
