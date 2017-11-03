@@ -1,5 +1,6 @@
 
-Amazon Alexa Starter
+Amazon Alexa Starter in TypeScript
+
 * Uses TypeScript, Yarn, Node, Chai & Mocha, AWS Lambda Mock Context
 Tutorial from [Youtube: Create An Amazon Alexa Skill Using Node.js And AWS Lambda](https://www.youtube.com/watch?v=E1KCmq_6Gpk)
 
